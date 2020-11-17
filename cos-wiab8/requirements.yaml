@@ -1,5 +1,0 @@
-dependencies:
-  - name: cos-wiab8
-    version: 0.0.1
-    repository: >-
-      https://artifactory-tools.appmod-chapter-1-0143c5dd31acd8e030a1d6e0ab1380e3-0000.us-south.containers.appdomain.cloud/artifactory/generic-local/gse-appmod-2
